@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.bfridge.duxcode.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.bfridge.duxcode.MyBundle
 
 class MyApplicationService {
 
